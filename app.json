@@ -1,14 +1,14 @@
 {
-	"name": "v2",
-	"description": "Deploy v2 on Heroku.",
-	"keywords": ["v2"],
+	"name": "V2RayUS",
+	"description": "Deploy V2ray on Heroku.",
+	"keywords": ["V2Ray"],
 	"env": {
 		"UUID": {
-			"description": "v2 UUID",
+			"description": "V2Ray UUID",
 			"value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
 		}
 	},
-	"website": "https://swds.cf",
+	"website": "https://swds.xf",
 	"repository": "https://github.com/danangua/v2-heroku",
 	"stack": "container"
 }
