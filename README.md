@@ -24,7 +24,7 @@
 
 ## 注意
 
-WebSocket 路径为 /。
+WebSocket 路径为 /v/。
 
 AlterID 为 64。
 
